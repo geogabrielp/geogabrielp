@@ -23,6 +23,4 @@
 
 [![badge](https://shieldcn.dev/badge/@geogabrielp.svg?variant=secondary&split=true&logo=ri%3AFaLinkedin&logoColor=3c7fee&padX=8&gap=6&labelGap=0)](https://www.linkedin.com/in/geogabrielp)
 
----
-
 <p align="center"><em>hey there! thanks for stopping by, check out my pinned projects 📌</em></p>
