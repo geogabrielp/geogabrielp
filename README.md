@@ -1,12 +1,13 @@
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD041 -->
-<img alt="George Gabriel banner" src="https://shieldcn.dev/header/graph.svg?title=👋%20Hi%2C%20I'm%20George%20Gabriel&subtitle=Data%20Engineer%20%7C%20Solving%20real%20problems%20with%20data&size=wide&mode=dark">
+<img alt="George Gabriel banner" src="https://shieldcn.dev/header/dots.svg?title=👋%20Hi%2C%20I'm%20George%20Gabriel&subtitle=Data%20Engineer%20%7C%20Solving%20real%20problems%20with%20data&size=wide&mode=dark">
 
 ### ⚡ About Me
 
-- 🇧🇷 Based in Brazil  
+- 🇧🇷 Based in Brazil
+- 📌 Check out my pinned **projects**!
 - ⚙️ Engineering scalable data pipelines with **Python, Spark & Databricks**  
-- 🧠 Currently exploring **GenAI**, **LLM applications**, and **AI Data Engineering**  
+- 🧠 Currently exploring **GenAI**, **LLM applications**, and **AI Data Engineering**
 
 ### 🛠️ Core Stack
 
@@ -22,5 +23,3 @@
 ### 🤝 Let's Connect
 
 [![badge](https://shieldcn.dev/badge/@geogabrielp.svg?variant=secondary&split=true&logo=ri%3AFaLinkedin&logoColor=3c7fee&padX=8&gap=6&labelGap=0)](https://www.linkedin.com/in/geogabrielp)
-
-<p align="center"><em>hey there! thanks for stopping by, check out my pinned projects 📌</em></p>
