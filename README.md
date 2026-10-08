@@ -1,13 +1,12 @@
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD041 -->
-<img alt="George Gabriel banner" src="https://shieldcn.dev/header/dots.svg?title=👋%20Hi%2C%20I'm%20George%20Gabriel&subtitle=Data%20Engineer%20%7C%20Solving%20real%20problems%20with%20data&size=wide&mode=dark">
+<img alt="George Gabriel banner" src="https://shieldcn.dev/header/graph.svg?title=👋%20Hi%2C%20I'm%20George%20Gabriel&subtitle=Data%20Engineer%20%7C%20Solving%20real%20problems%20with%20data&size=wide&mode=dark">
 
 ### ⚡ About Me
 
-- 🇧🇷 Based in Brazil
-- 📌 Check out my pinned **projects**!
 - ⚙️ Engineering scalable data pipelines with **Python, Spark & Databricks**  
 - 🧠 Currently exploring **GenAI**, **LLM applications**, and **AI Data Engineering**
+- 📌 Check out my pinned **projects** (and dotfiles)!
 
 ### 🛠️ Core Stack
 
@@ -19,7 +18,3 @@
 [![badge](https://shieldcn.dev/badge/Docker.svg?variant=secondary&theme=zinc&logo=docker&logoColor=2a78f7&padX=8&gap=6&labelGap=0)](https://www.docker.com)
 [![badge](https://shieldcn.dev/badge/Azure.svg?variant=secondary&theme=zinc&logo=ri%3ATbBrandAzure&logoColor=0078D4)](https://azure.microsoft.com)
 [![badge](https://shieldcn.dev/badge/Git.svg?variant=secondary&theme=zinc&logo=git&logoColor=F05032)](https://git-scm.com)
-
-### 🤝 Let's Connect
-
-[![badge](https://shieldcn.dev/badge/@geogabrielp.svg?variant=secondary&split=true&logo=ri%3AFaLinkedin&logoColor=3c7fee&padX=8&gap=6&labelGap=0)](https://www.linkedin.com/in/geogabrielp)
